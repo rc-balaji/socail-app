@@ -232,10 +232,7 @@ h1{
     
     <div class="box" >
         
-            <!-- <div class="col-md-12"> -->
-                <!-- <h2 style="color: #273c75;">Login</h2>
-                <p style="color:#e84118;">Please Fill Your ⮯⮯</p> -->
-                <!-- <?php echo $error; ?> -->
+             <?php echo $error; ?> 
                 <form autocomplete="off"  name="myform" id="login-form"  action="" method="post">
                 <div class="inputBox">
                 

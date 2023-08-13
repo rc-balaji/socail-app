@@ -228,8 +228,8 @@ h1{
         <div style="height:700px;width:800px " class="box">
         
                     
-                        <!-- <?php echo $success; ?>
-                    <?php echo $error; ?> -->
+                      <?php echo $success; ?>
+                    <?php echo $error; ?> 
                     <form action="" method="post">
                     <h2 >Enter the details given below </h2>
                         <div class="form-group">
